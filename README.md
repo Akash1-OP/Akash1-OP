@@ -1,116 +1,156 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Akash Sahana</h1>
 
-# 🚀 Akash Sahana
+<h3 align="center">
+🚀 Full Stack Developer | Backend Developer | MERN Stack Enthusiast
+</h3>
 
-### Full Stack Developer • Backend Developer • Microservices Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+Microservices;Backend+Focused+Developer;Always+Learning+New+Technologies" />
-
-</div>
+<p align="center">
+Passionate about building scalable web applications, microservices architectures, and real-time platforms using modern technologies.
+</p>
 
 ---
 
 # 💫 About Me
 
-- 🎓 B.Tech CSE Student
-- 💻 Passionate about Full Stack Development
-- ⚡ Building scalable and real-time applications
-- 🌱 Exploring Cloud & Microservices Architecture
-- 🚀 Love creating modern backend systems
+🎓 B.Tech CSE Student at Govt. College of Engineering & Textile Technology, Serampore  
+💻 Full Stack Developer focused on scalable backend systems  
+⚡ Building production-grade MERN & Microservices applications  
+🌱 Currently learning advanced system design & cloud technologies  
+🔥 Passionate about real-time apps, AI integrations, and modern web architecture  
 
 ---
 
-# 🛠 Skills & Technologies
+# 🌐 Connect With Me
 
-<div align="center">
+<p align="left">
+<a href="YOUR_LINKEDIN_LINK" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
 
-### 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,c" />
+<a href="https://github.com/YOUR_USERNAME" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
 
-### 🎨 Frontend
+<a href="YOUR_PORTFOLIO_LINK" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" height="40" />
+</a>
+</p>
+
+---
+
+# 🚀 Tech Stack
+
+## 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,java,python" />
+</p>
+
+## 🎨 Frontend
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
 
-### ⚙ Backend
+## ⚙️ Backend
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### 🗄 Database
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+## 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" />
+</p>
 
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,kafka,postman,figma,vscode" />
-
-</div>
+## 🛠️ Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,figma" />
+</p>
 
 ---
 
-# 🚀 Featured Projects
+# 📌 Featured Projects
 
 ## 💼 HairHeaven – Job Portal
-Microservices-based job portal using Kafka, Redis, PostgreSQL, and TypeScript.
+🚀 Microservices-based job portal with Kafka event-driven architecture.
+
+### ✨ Features
+- AI Resume Analysis
+- Career Recommendations
+- Razorpay Subscription System
+- Redis Caching
+- Automated Email Workflows
+- Type-safe APIs using TypeScript
+
+### 🛠️ Tech Used
+`Node.js` `Express.js` `Kafka` `PostgreSQL` `Redis` `TypeScript`
+
+---
 
 ## 🎵 Real-Time Audio Streaming Platform
-MERN stack application with real-time streaming and Socket.io communication.
+🎧 Full-stack music streaming platform with real-time communication.
 
-## 🍽 Restaurant Booking Website
-Full-stack booking and ordering system with optimized backend APIs.
+### ✨ Features
+- Real-time Audio Streaming
+- Live Chat & Presence Tracking
+- Admin Dashboard
+- Analytics Dashboard
+- Optimized Streaming Performance
 
-## 🎥 TalkVid – Video Conferencing App
-Realtime video conferencing and chat application.
+### 🛠️ Tech Used
+`MongoDB` `Express.js` `React.js` `Node.js` `Socket.io`
+
+---
+
+## 🍽️ Restaurant Booking Website
+📅 Full-stack restaurant booking & ordering platform.
+
+### ✨ Features
+- Online Reservations
+- Food Ordering
+- REST APIs
+- Optimized Database Queries
+- Responsive UI
+
+### 🛠️ Tech Used
+`MERN Stack` `MongoDB` `Express.js` `React.js` `Node.js`
+
+---
+
+# 🏆 Achievements
+
+🏅 Built multiple production-level full-stack applications  
+🏅 Strong understanding of system design & backend architecture  
+🏅 Experience with real-time applications & scalable systems  
 
 ---
 
 # 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Akash1-OP&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1-OP&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180em" />
+</p>
 
 ---
 
-<div align="center">
+# 🔥 GitHub Streak
 
-# 🌐 Connect with Me ⚡
-
-<a href="mailto:akashsahana62@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://facebook.com/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://akash-sahana.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
-<div align="center">
+# 🐍 Contribution Snake
 
-## 🚀 Code • Build • Scale
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
+</p>
 
-### Thank You 💙
+---
 
-</div>
+# ✨ Quote
+
+<p align="center">
+"Code. Build. Scale. Repeat."
+</p>
