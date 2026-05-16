@@ -1,156 +1,145 @@
-<h1 align="center">Hi 👋, I'm Akash Sahana</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Full Stack Developer | Backend Developer | MERN Stack Enthusiast
-</h3>
+# AKASH SAHANA
 
-<p align="center">
-Passionate about building scalable web applications, microservices architectures, and real-time platforms using modern technologies.
-</p>
+### Full Stack Developer • Backend Engineer • MERN Stack Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;Microservices+Architecture+Developer;Real-Time+Application+Builder;Passionate+About+Backend+Engineering" />
+
+</div>
 
 ---
 
-# 💫 About Me
+## ⚡ About Me
 
-🎓 B.Tech CSE Student at Govt. College of Engineering & Textile Technology, Serampore  
-💻 Full Stack Developer focused on scalable backend systems  
-⚡ Building production-grade MERN & Microservices applications  
-🌱 Currently learning advanced system design & cloud technologies  
-🔥 Passionate about real-time apps, AI integrations, and modern web architecture  
+```yaml
+name: Akash Sahana
+education: B.Tech CSE
+college: Govt. College of Engineering & Textile Technology
+location: West Bengal, India
+
+focus:
+  - Full Stack Development
+  - Backend Engineering
+  - System Design
+  - Real-Time Applications
+  - Microservices Architecture
+
+currently_learning:
+  - Advanced Backend Systems
+  - Cloud Infrastructure
+  - Distributed Systems
+```
+
+---
+
+# 🚀 Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,mysql,redis,docker,java,python,git,github,postman,figma&perline=6" />
+
+</div>
+
+---
+
+# 💼 Experience
+
+## 🔹 Web Development Intern
+### ApexPlanet Software Pvt. Ltd.
+
+- Developed responsive web interfaces
+- Improved frontend performance
+- Built scalable UI components
+- Worked with HTML, CSS, JavaScript
+
+---
+
+# 🔥 Featured Projects
+
+## 🎧 Real-Time Audio Streaming Platform
+
+```diff
++ Real-time Audio Streaming
++ Live Chat & Presence Tracking
++ Admin Dashboard
++ Analytics System
++ MERN Stack + Socket.io
+```
+
+---
+
+## 💼 HairHeaven – Microservices Job Portal
+
+```diff
++ Kafka Event-Driven Architecture
++ AI Resume Analysis
++ Career Recommendations
++ Razorpay Integration
++ Redis Caching
++ TypeScript APIs
+```
+
+---
+
+## 🍽️ Restaurant Booking Platform
+
+```diff
++ Online Booking System
++ Ordering Platform
++ Optimized Database Queries
++ REST APIs
++ MERN Stack
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="YOUR_LINKEDIN_LINK" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<div align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" height="40" />
+<a href="YOUR_PORTFOLIO">
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/domain.png"/>
 </a>
-</p>
+
+</div>
 
 ---
 
-# 🚀 Tech Stack
+<div align="center">
 
-## 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,java,python" />
-</p>
+## 💭 Developer Mindset
 
-## 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
+> "First, solve the problem. Then, write the clean scalable code."
 
-## ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-## 🗄️ Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" />
-</p>
-
-## 🛠️ Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker,figma" />
-</p>
-
----
-
-# 📌 Featured Projects
-
-## 💼 HairHeaven – Job Portal
-🚀 Microservices-based job portal with Kafka event-driven architecture.
-
-### ✨ Features
-- AI Resume Analysis
-- Career Recommendations
-- Razorpay Subscription System
-- Redis Caching
-- Automated Email Workflows
-- Type-safe APIs using TypeScript
-
-### 🛠️ Tech Used
-`Node.js` `Express.js` `Kafka` `PostgreSQL` `Redis` `TypeScript`
-
----
-
-## 🎵 Real-Time Audio Streaming Platform
-🎧 Full-stack music streaming platform with real-time communication.
-
-### ✨ Features
-- Real-time Audio Streaming
-- Live Chat & Presence Tracking
-- Admin Dashboard
-- Analytics Dashboard
-- Optimized Streaming Performance
-
-### 🛠️ Tech Used
-`MongoDB` `Express.js` `React.js` `Node.js` `Socket.io`
-
----
-
-## 🍽️ Restaurant Booking Website
-📅 Full-stack restaurant booking & ordering platform.
-
-### ✨ Features
-- Online Reservations
-- Food Ordering
-- REST APIs
-- Optimized Database Queries
-- Responsive UI
-
-### 🛠️ Tech Used
-`MERN Stack` `MongoDB` `Express.js` `React.js` `Node.js`
-
----
-
-# 🏆 Achievements
-
-🏅 Built multiple production-level full-stack applications  
-🏅 Strong understanding of system design & backend architecture  
-🏅 Experience with real-time applications & scalable systems  
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180em" />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
-</p>
-
----
-
-# ✨ Quote
-
-<p align="center">
-"Code. Build. Scale. Repeat."
-</p>
+</div>
