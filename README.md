@@ -78,25 +78,14 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Akash1-OP&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1-OP&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akash1-OP&show_icons=true&theme=radical&cache_seconds=1800" />
+
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1-OP&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Akash1-OP&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akash1-OP&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
