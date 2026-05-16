@@ -1,110 +1,130 @@
-# Hi 👋, I'm Akash Sahana
+<h1 align="center">Hi 👋, I'm Akash Sahana</h1>
+<h3 align="center">🚀 Full Stack & Backend Developer | Microservices Enthusiast | CSE Student</h3>
 
-🚀 Full Stack & Backend Developer  
-💻 Computer Science Engineering Student  
-⚡ Building scalable web applications, microservices & real-time systems  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Engineer;Microservices+Architecture;Next.js+%7C+Node.js+%7C+PostgreSQL;Building+Real-Time+Applications" />
+</p>
 
 ---
 
 ## 🌟 About Me
 
-- 🎓 B.Tech CSE Student at Govt. College of Engineering and Textile Technology, Serampore
-- 🔭 Currently working on scalable backend systems and AI-powered applications
-- 🌱 Exploring Microservices, System Design & Cloud Technologies
-- 💬 Ask me about:
-  - Next.js
-  - Node.js
-  - PostgreSQL
-  - Microservices
-  - MERN Stack
-- ⚡ Passionate about building production-grade applications
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 B.Tech CSE Student  
+- 💻 Passionate about Full Stack & Backend Development  
+- ⚡ Building scalable microservices & real-time applications  
+- 🚀 Exploring Cloud, System Design & AI Integration  
+- 🌱 Currently learning advanced backend architecture  
+- 💬 Ask me about **Next.js, Node.js, MERN, PostgreSQL, Redis**
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Tech Stack
 
-## 🛠 Tech Stack
+## 💻 Languages
 
-### 🚀 Languages
-![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,js,ts,java,python" />
+</p>
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
-![Vite](https://img.shields.io/badge/-Vite-black?style=for-the-badge&logo=vite)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-black?style=for-the-badge&logo=tailwind-css)
+## 🎨 Frontend
 
-### ⚙ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
-![Microservices](https://img.shields.io/badge/-Microservices-black?style=for-the-badge)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,vite,tailwind" />
+</p>
 
-### 🗄 Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+## ⚙ Backend & Database
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
-![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
-![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis,docker" />
+</p>
+
+## 🛠 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 💼 HairHeaven – AI Job Portal
-- Microservices architecture with Kafka
-- AI Resume Analysis
-- Razorpay Integration
-- Redis Caching
-- PostgreSQL + TypeScript Backend
-
-### 🎵 Real-Time Audio Streaming Platform
-- MERN Stack Application
-- Real-Time Chat using Socket.io
-- Live Streaming Features
-- Analytics Dashboard
-
-### 🍽 Restaurant Booking Platform
-- Full-stack MERN Application
-- REST APIs
-- Optimized Database Queries
-- Online Reservation System
+## 💼 HairHeaven – AI Job Portal
+✨ Microservices Architecture  
+✨ Kafka Event-Driven System  
+✨ AI Resume Analysis  
+✨ Razorpay Subscription Integration  
+✨ Redis Caching & PostgreSQL  
 
 ---
 
-## 📈 GitHub Stats
-
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash1-OP&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1-OP&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Akash1-OP&theme=tokyonight)
+## 🎵 Real-Time Audio Streaming Platform
+✨ MERN Stack Application  
+✨ Live Chat using Socket.io  
+✨ Real-Time Audio Streaming  
+✨ Admin & Analytics Dashboard  
 
 ---
 
-## 🌐 Connect With Me
-
-- 💼 LinkedIn:www.linkedin.com/in/akashsahana007
-- 🌎 Portfolio: https://akash-sahana.vercel.app
-- 📧 Email: akashsahana62@gmail.com
+## 🍽 Restaurant Booking Platform
+✨ MERN Full Stack Project  
+✨ REST APIs  
+✨ Online Reservation System  
+✨ Optimized Backend Queries  
 
 ---
 
-## ⚡ Fun Fact
+# 📊 GitHub Analytics
 
-I enjoy building scalable systems, solving backend challenges, and creating real-world applications with modern technologies 🚀
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Akash1-OP&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1-OP&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Akash1-OP&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akash1-OP&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/your-link" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://github.com/Akash1-OP" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="mailto:akashsahana62@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+```javascript
+while(alive) {
+   code();
+   learn();
+   build();
+   repeat();
+}
