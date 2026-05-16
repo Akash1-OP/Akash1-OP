@@ -2,6 +2,7 @@
 <h3 align="center">🚀 Full Stack & Backend Developer | Microservices Enthusiast | CSE Student</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akash1-OP&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Engineer;Microservices+Architecture;Next.js+%7C+Node.js+%7C+PostgreSQL;Building+Real-Time+Applications" />
 </p>
 
