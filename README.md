@@ -1,134 +1,110 @@
-<div align="center">
+# Hi 👋, I'm Akash Sahana
 
-# 🚀 Akash Sahana
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Focused+Engineer;Microservices+Enthusiast;Building+Scalable+Applications;React+%7C+Node.js+%7C+Cloud+Technologies" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Akash1-OP&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-
-</div>
+🚀 Full Stack & Backend Developer  
+💻 Computer Science Engineering Student  
+⚡ Building scalable web applications, microservices & real-time systems  
 
 ---
 
-# 💫 About Me
+## 🌟 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-🎓 B.Tech Computer Science Engineering Student  
-💻 Backend & Full Stack Developer  
-⚡ Passionate About Scalable Systems & Microservices  
-🚀 Building Real-Time & Production-Grade Applications  
-📚 Strong Foundation in Data Structures & System Design  
-🌱 Currently Exploring Cloud & Distributed Systems  
-
-<br clear="right"/>
-
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-## 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=js,ts,java,python" />
+- 🎓 B.Tech CSE Student at Govt. College of Engineering and Textile Technology, Serampore
+- 🔭 Currently working on scalable backend systems and AI-powered applications
+- 🌱 Exploring Microservices, System Design & Cloud Technologies
+- 💬 Ask me about:
+  - Next.js
+  - Node.js
+  - PostgreSQL
+  - Microservices
+  - MERN Stack
+- ⚡ Passionate about building production-grade applications
 
 ---
 
-## 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+## 🛠 Tech Stack
+
+## 🛠 Tech Stack
+
+### 🚀 Languages
+![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
+![Vite](https://img.shields.io/badge/-Vite-black?style=for-the-badge&logo=vite)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-black?style=for-the-badge&logo=tailwind-css)
+
+### ⚙ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
+![Microservices](https://img.shields.io/badge/-Microservices-black?style=for-the-badge)
+
+### 🗄 Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
+![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
 
 ---
 
-## ⚙ Backend & DevOps
-<img src="https://skillicons.dev/icons?i=nodejs,express,docker,redis,kafka" />
+## 🚀 Featured Projects
+
+### 💼 HairHeaven – AI Job Portal
+- Microservices architecture with Kafka
+- AI Resume Analysis
+- Razorpay Integration
+- Redis Caching
+- PostgreSQL + TypeScript Backend
+
+### 🎵 Real-Time Audio Streaming Platform
+- MERN Stack Application
+- Real-Time Chat using Socket.io
+- Live Streaming Features
+- Analytics Dashboard
+
+### 🍽 Restaurant Booking Platform
+- Full-stack MERN Application
+- REST APIs
+- Optimized Database Queries
+- Online Reservation System
 
 ---
 
-## 🗄 Database
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+## 📈 GitHub Stats
+
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash1-OP&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1-OP&layout=compact&theme=tokyonight)
 
 ---
 
-## 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+## 🔥 GitHub Streak
 
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 💡 Description |
-|---|---|
-| 💼 **HairHeaven – Job Portal** | Microservices-based platform using Kafka, Redis, PostgreSQL & TypeScript |
-| 🎵 **Real-Time Audio Streaming Platform** | MERN stack application with live streaming & Socket.io communication |
-| 🍽 **Restaurant Booking Website** | Full-stack booking & ordering platform with optimized backend APIs |
-| 🎥 **TalkVid – Video Conferencing App** | Real-time video conferencing and chat application |
-
-</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Akash1-OP&theme=tokyonight)
 
 ---
 
-# 📊 GitHub Analytics
+## 🌐 Connect With Me
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akash1-OP&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1-OP&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash1-OP&theme=tokyonight&hide_border=true"/>
-
-</div>
+- 💼 LinkedIn:www.linkedin.com/in/akashsahana007
+- 🌎 Portfolio: https://akash-sahana.vercel.app
+- 📧 Email: akashsahana62@gmail.com
 
 ---
 
-# 🏆 GitHub Trophies
+## ⚡ Fun Fact
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Akash1-OP&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://akash-sahana.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Akash1-OP">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:akashsahana62@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# ⚡ Fun Fact
-
-<div align="center">
-
-💡 *I love building scalable backend systems, real-time apps, and solving engineering challenges.*
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 "Code. Build. Scale. Repeat."
-
-</div>
+I enjoy building scalable systems, solving backend challenges, and creating real-world applications with modern technologies 🚀
