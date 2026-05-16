@@ -1,119 +1,134 @@
-<h1 align="center">Hi 👋, I'm Akash Sahana</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Full Stack Developer | Microservices Enthusiast | Backend-Focused Engineer
-</h3>
+# 🚀 Akash Sahana
 
-<p align="center">
-Building scalable, real-time, and production-grade web applications using modern technologies.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Focused+Engineer;Microservices+Enthusiast;Building+Scalable+Applications;React+%7C+Node.js+%7C+Cloud+Technologies" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Akash1-OP&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ---
 
 # 💫 About Me
 
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 🎓 B.Tech Computer Science Engineering Student  
-💻 Passionate about Backend & Full Stack Development  
-⚡ Specialized in scalable Microservices Architecture  
-🚀 Building real-time and production-grade applications  
-📚 Strong foundation in Data Structures & System Design  
+💻 Backend & Full Stack Developer  
+⚡ Passionate About Scalable Systems & Microservices  
+🚀 Building Real-Time & Production-Grade Applications  
+📚 Strong Foundation in Data Structures & System Design  
+🌱 Currently Exploring Cloud & Distributed Systems  
+
+<br clear="right"/>
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ Tech Stack
 
-### 👨‍💻 Languages
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
+<div align="center">
 
----
-
-### 🎨 Frontend
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![React](https://skillicons.dev/icons?i=react)
-![NextJS](https://skillicons.dev/icons?i=nextjs)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+## 👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=js,ts,java,python" />
 
 ---
 
-### ⚙ Backend & Microservices
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Redis](https://skillicons.dev/icons?i=redis)
+## 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 
 ---
 
-### 🗄 Database
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+## ⚙ Backend & DevOps
+<img src="https://skillicons.dev/icons?i=nodejs,express,docker,redis,kafka" />
 
 ---
 
-### 🧰 Tools
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Figma](https://skillicons.dev/icons?i=figma)
+## 🗄 Database
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+
+---
+
+## 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-## 💼 HairHeaven – Job Portal (Microservices Architecture)
+<div align="center">
 
-🔹 Microservices-based job portal using Kafka  
-🔹 Scalable backend with Node.js, Express, PostgreSQL & Redis  
-🔹 AI Resume Analysis & Career Recommendations  
-🔹 Razorpay Subscription Integration  
-🔹 TypeScript-based APIs  
+| 🚀 Project | 💡 Description |
+|---|---|
+| 💼 **HairHeaven – Job Portal** | Microservices-based platform using Kafka, Redis, PostgreSQL & TypeScript |
+| 🎵 **Real-Time Audio Streaming Platform** | MERN stack application with live streaming & Socket.io communication |
+| 🍽 **Restaurant Booking Website** | Full-stack booking & ordering platform with optimized backend APIs |
+| 🎥 **TalkVid – Video Conferencing App** | Real-time video conferencing and chat application |
 
----
-
-## 🎵 Real-Time Audio Streaming Platform
-
-🔹 Full-stack MERN music streaming platform  
-🔹 Real-time communication using Socket.io  
-🔹 Admin & Analytics Dashboards  
-🔹 Optimized backend performance and streaming latency  
+</div>
 
 ---
 
-## 🍽 Restaurant Booking Website
+# 📊 GitHub Analytics
 
-🔹 Full-stack restaurant booking & ordering system  
-🔹 REST APIs with optimized database queries  
-🔹 Seamless reservation and ordering experience  
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akash1-OP&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1-OP&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash1-OP&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-# 📈 GitHub Stats
+# 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akash1-OP&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash1-OP&theme=tokyonight" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Akash1-OP&theme=tokyonight&no-frame=true&row=1&column=6" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1-OP&layout=compact&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-📧 Email: akashsahana62@gmail.com  
-🌍 Portfolio: https://akash-sahana.vercel.app/  
+<div align="center">
+
+<a href="https://akash-sahana.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Akash1-OP">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:akashsahana62@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 # ⚡ Fun Fact
 
-I enjoy building scalable backend systems, real-time applications, and solving complex engineering problems.
+<div align="center">
+
+💡 *I love building scalable backend systems, real-time apps, and solving engineering challenges.*
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 "Code. Build. Scale. Repeat."
+
+</div>
