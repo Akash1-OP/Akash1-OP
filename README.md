@@ -74,7 +74,6 @@
 ✨ Optimized Backend Queries  
 
 ---
-
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -82,6 +81,7 @@
 
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1-OP&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
+
 # 🔥 GitHub Streak
 
 <p align="center">
