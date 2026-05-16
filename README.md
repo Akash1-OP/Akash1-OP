@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Akash Sahana</h1>
-<h3 align="center">🚀 Full Stack & Backend Developer | Microservices Enthusiast | CSE Student</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akash1-OP&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Engineer;Microservices+Architecture;Next.js+%7C+Node.js+%7C+PostgreSQL;Building+Real-Time+Applications" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Akash1-OP&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
----
+<h3 align="center">
+🚀 Full Stack & Backend Developer | Microservices Enthusiast | CSE Student
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Engineer;Microservices+Architecture;Next.js+%7C+Node.js+%7C+PostgreSQL;Building+Real-Time+Applications" />
+</p>
 
 ## 🌟 About Me
 
@@ -75,13 +79,6 @@
 ✨ Optimized Backend Queries  
 
 ---
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akash1-OP&show_icons=true&theme=radical&cache_seconds=1800" />
-
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1-OP&layout=compact&theme=radical&cache_seconds=1800" />
-</p>
 
 # 🔥 GitHub Streak
 
