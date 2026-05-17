@@ -53,41 +53,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-## 💼 HairHeaven – AI Job Portal
-✨ Microservices Architecture  
-✨ Kafka Event-Driven System  
-✨ AI Resume Analysis  
-✨ Razorpay Subscription Integration  
-✨ Redis Caching & PostgreSQL  
-
----
-
-## 🎵 Real-Time Audio Streaming Platform
-✨ MERN Stack Application  
-✨ Live Chat using Socket.io  
-✨ Real-Time Audio Streaming  
-✨ Admin & Analytics Dashboard  
-
----
-
-## 🍽 Restaurant Booking Platform
-✨ MERN Full Stack Project  
-✨ REST APIs  
-✨ Online Reservation System  
-✨ Optimized Backend Queries  
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Akash1-OP&theme=tokyonight&hide_border=true&border_radius=12)](https://git.io/streak-stats)
-
-</div>
-
 # 🌐 Connect With Me
 
 <p align="left">
