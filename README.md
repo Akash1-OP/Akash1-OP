@@ -80,13 +80,14 @@
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akash1-OP&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img
+    src="https://streak-stats.demolab.com?user=Akash1-OP&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="GitHub Streak"
+  />
 </p>
-
----
 
 # 🌐 Connect With Me
 
